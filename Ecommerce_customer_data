@@ -1,0 +1,11 @@
+This dataset contains data of customer from a ecommerce platform.
+Can use this data to predict the Yearly Amount Spent based on customer features
+
+Columns:
+-Email
+-Address
+-Avatar
+-Time on App
+-Time on Website
+-Length of Membership
+-Yearly Amount Spent
